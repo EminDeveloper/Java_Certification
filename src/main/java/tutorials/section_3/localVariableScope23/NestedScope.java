@@ -1,10 +1,5 @@
 package tutorials.section_3.localVariableScope23;
-/*
-Learn Programming Academy's Java 1Z0-815 Certification Exam Course
-Section 3: Working with Java Primitive Data Types and String APIs
-Topic: Identify the Scope of a variable
-Sub-Topic: Out of the ordinary concepts
-*/
+
 
 public class NestedScope {
     public static void main(String[] args) {
