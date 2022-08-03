@@ -1,9 +1,4 @@
-package tutorials.section_3.declarinPrimitieTypes16;/*
-Learn Programming Academy's Java 1Z0-815 Certification Exam Course
-Section 3: Working with Java Primitive Data Types and String APIs
-Topic: Declare and Initialize Variables
-Sub-Topic: Initializing Primitive Data Variables to literals
-*/
+package tutorials.section_3.declarinPrimitieTypes16;
 
 public class Foo {
     public static void main(String[] args) {
