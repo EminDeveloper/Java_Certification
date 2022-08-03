@@ -1,12 +1,5 @@
 package tutorials.section_3.localVariableInitialization17;
 
-/*
-Learn Programming Academy's Java 1Z0-815 Certification Exam Course
-Section 3: Working with Java Primitive Data Types and String APIs
-Topic: Declare and Initialize Variables
-Sub-Topic: Initialization of primitive data type variables - including default values
-*/
-
 public class Bar {
     // Default values for numeric static variables set to a representation of 0
     static byte staticBarByte;
