@@ -17,7 +17,7 @@ public class CastingExample {
 
         // We are forcing the for loop to stay in the valid range of a short
         for (int i = minValue; i <= maxValue; i++) {
-
+    // TODO
             // We know because of the way we've written the code that i will never be outside
             // the range of a short, so we confidently cast i to s2 as a short.
             s2 = (short) i;  // we cast an int to a short
