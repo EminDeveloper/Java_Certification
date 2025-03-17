@@ -5,6 +5,8 @@ Topic: Create and Manipulate Strings
 Sub-Topic: Strings and the Compound Concatenation Operator
 */
 
+import tutorials.section_3.stringRecap26.ImmutableString;
+
 public class StringCompoundConcat {
     public static void main(String[] args) {
 
