@@ -17,7 +17,7 @@ Oracle Certified Associate (OCA), Java Programmer: This certification typically 
 
 Oracle Certified Professional (OCP), Java Programmer: Building upon the OCA, the OCP certification dives deeper into advanced Java concepts, design patterns, and more complex APIs. It might also involve topics like concurrency, JDBC, and IO.
 
-Oracle Certified Expert (OCE), Java EE Web Component Developer: Focused on Java Enterprise Edition (EE), this certification validates skills in developing web applications using Java EE technologies like servlets and JSP.
+Oracle Certified Expert (OCE), Java EE Web Component Developer: Focused on Java Enterprise Edition (EE), this certification validates skills in developing web applications using Java EE technologies like servlets and JSP.  
 
 Oracle Certified Master (OCM), Java EE Enterprise Architect: Aimed at experienced professionals, this certification assesses one's ability to architect enterprise-level Java EE applications.
 
