@@ -2,7 +2,7 @@ package quizes.section__3;
 
 public class Test4 {
     static float tax_rate =0.06F;
-    public static void main(String[] args) {
+    public static void main(StringPerformanceTest333[] args) {
 
         var result = 0;
         var tax_rate = 0.05;    // Line 1
