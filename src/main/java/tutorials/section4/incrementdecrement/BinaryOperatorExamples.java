@@ -1,4 +1,4 @@
-package quizes.section4.operators.controlflow.mastering.incrementdecrement;
+package tutorials.section4.incrementdecrement;
 /*
 Learn Programming Academy's Java 1Z0-815 Certification Exam Course
 Section 4: Using Operators and Decision Constructs
@@ -17,7 +17,7 @@ public class BinaryOperatorExamples {
         int f = 6;
 
         // Multiplicative (* / %) operations are evaluated first
-        // Before Additive operators (+ -)
+        // Before Additive tutorials.section4.operators (+ -)
         // and evaluated left to right.
 
         // Could also be written:  a + (e * b) - (f / c) % b;
@@ -100,11 +100,11 @@ public class BinaryOperatorExamples {
                 0b10000010_00000010_00000010_00000010 >> 1)).
                 replace(' ', '0'));
 
-        // Relationship operators <, <=
+        // Relationship tutorials.section4.operators <, <=
         // | - logical or
         // || - conditional logical or
-        System.out.println("\nResults using relationship operators" +
-                " and logical or operators (| ||) ");
+        System.out.println("\nResults using relationship tutorials.section4.operators" +
+                " and logical or tutorials.section4.operators (| ||) ");
         e = 0;
         f = 0;
         if ((e++ <= f) | (++e < f)) {
@@ -131,8 +131,8 @@ public class BinaryOperatorExamples {
                 " both expressions ONLY if first expression is false : e = "
                 + e + ", and f = " + f);
 
-        System.out.println("\nResults using relationship operators" +
-                " and logical or operators (& &&) ");
+        System.out.println("\nResults using relationship tutorials.section4.operators" +
+                " and logical or tutorials.section4.operators (& &&) ");
 
         a = 0;
         b = 10;
